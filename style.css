@@ -1,0 +1,16 @@
+.main {
+    background-color: aqua;
+    margin: auto 0;
+}
+
+.imgHeader {
+    width: 90vh;
+    height: 100px;
+}
+
+.conteudo {
+    background-color: white;
+    height: 90px;
+    width: 700px;
+}
+
